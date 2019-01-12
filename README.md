@@ -3,4 +3,4 @@ The website offers a weekly calendar for healthy meal plans that is randomly tak
 to their shopping list, which can be printed out. 
 
 The frontend repo can be found here:  https://github.com/sabeenski/final-project-meal-planner-client
-You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com/login
+<br> You can visit the actual website here: https://planet-friendly-meal-planner.netlify.com/login
